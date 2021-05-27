@@ -117,18 +117,18 @@ export const socials = [
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    href: "https://t.me/extrememoon",
+    href: "http://t.me/predatorfinancegroup",
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/TheXtremeMoon",
+    href: "http://twitter.com/predatorfinance",
   },
-  {
-    label: "Reddit",
-    icon: "RedditIcon",
-    href: "https://www.reddit.com/r/XtremeMoon/",
-  },
+  // {
+  //   label: "Reddit",
+  //   icon: "RedditIcon",
+  //   href: "https://www.reddit.com/r/XtremeMoon/",
+  // },
 ];
 
 export const MENU_HEIGHT = 64;

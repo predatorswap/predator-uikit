@@ -109,9 +109,7 @@ const PanelFooter: React.FC<Props> = ({
             );
           })}
         </Flex>
-      </SocialEntry>
-      <SettingsEntry>
-        <Dropdown
+        {/* <Dropdown
           position="top-right"
           target={
             <Button variant="text" startIcon={<LanguageIcon color="textSubtle" width="24px" />}>
@@ -130,8 +128,8 @@ const PanelFooter: React.FC<Props> = ({
               {lang.language}
             </MenuButton>
           ))}
-        </Dropdown>
-      </SettingsEntry>
+        </Dropdown> */}
+      </SocialEntry>
     </Container>
   );
 };
